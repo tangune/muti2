@@ -11,6 +11,7 @@
                     <div class="content-wrapper">
                         <!-- Content Header (Page header) -->
                        <!-- teste1 de github -->
+                       <!-- teste2 de github feito hoje -->
                         <section class="content-header">
                             @if(count($errors ) > 0)
                                 <div class="alert alert-danger">
