@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6daeeee2-3ff8-47e0-ad60-1da82124dcde" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/Gitnhumba" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/administrador/tela_arrendamento.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/admin_tela_principalController.php" />
+        <option value="$PROJECT_DIR$/resources/views/administrador/tela_reservas.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/administrador/lista_pesquisa_reservas.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/administrador/lista_apartamento.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/administrador/lista_pesquisa_apartamento.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissao/lista_pesquisa_reserva.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissao/tela_apartamento_reservado.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissoes/comissoes_lista_pesquisa.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissoes/comissoes_lista_apartamento.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/backend_comissao.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/cliente/tela_espediente_experiencia.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/administrador/tela_cidade.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CidadeController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/BairroController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/EstadoController.php" />
+        <option value="$PROJECT_DIR$/resources/views/administrador/tela_comissao.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ComissaoController.php" />
+        <option value="$PROJECT_DIR$/resources/views/administrador/tela_estado.blade.php" />
+        <option value="$PROJECT_DIR$/app/Apartamento.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissao/lista_apartamento.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissao/lista_pesquisa.blade.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/app/Comissoe.php" />
+        <option value="$PROJECT_DIR$/app/Agente.php" />
+        <option value="$PROJECT_DIR$/app/Quarteiroe.php" />
+        <option value="$PROJECT_DIR$/app/Bairro.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissoes/tela_casa.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissoes/tela_apartamento.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ApartamentoController.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissao/tela_casa.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissao/tela_apartamento.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissao/tela_proprietario.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/administrador/lista_casa.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/backend_admin.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/administrador/lista_pesquisa_casa.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/administrador/lista_casas.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CasaController.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissao/lista_casas.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissao/lista_pesquisa_casas.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/administrador/lista_pesquisa_casas.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/backend_cliente.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/cliente/tela_pesquisa_casa.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/comissao/tela_agente.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php" />
+        <option value="$PROJECT_DIR$/resources/views/cliente/tela_cliente.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ClienteController.php" />
+        <option value="$PROJECT_DIR$/resources/views/cliente/tela_reservado.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ReservaController.php" />
+        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/Flot/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/bootstrap-colorpicker/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/bootstrap-datepicker/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/ckeditor/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/eve-raphael/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/jquery-slimscroll/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/seiyria-bootstrap-slider/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/bower_components/select2/package.json" />
+      <path value="$PROJECT_DIR$/public/backend/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/xethron/migrations-generator" />
+      <path value="$PROJECT_DIR$/vendor/xethron/laravel-4-generators" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nhumba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nhumba" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Gitnhumba" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\nhumba\resources\views\cliente" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6daeeee2-3ff8-47e0-ad60-1da82124dcde" name="Default" comment="" />
+      <created>1571244885413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571244885413</updated>
+      <workItem from="1571244895617" duration="11030000" />
+      <workItem from="1571296080629" duration="5907000" />
+      <workItem from="1571330233089" duration="10302000" />
+      <workItem from="1571383556040" duration="3862000" />
+      <workItem from="1571414233276" duration="5714000" />
+      <workItem from="1571474410287" duration="20818000" />
+      <workItem from="1571562449909" duration="20155000" />
+      <workItem from="1571655915222" duration="5655000" />
+      <workItem from="1571676273083" duration="11193000" />
+      <workItem from="1571739001323" duration="11257000" />
+      <workItem from="1571755641293" duration="15026000" />
+      <workItem from="1571803841516" duration="17361000" />
+      <workItem from="1571824851856" duration="17966000" />
+      <workItem from="1572197859534" duration="8054000" />
+      <workItem from="1572271939604" duration="499000" />
+      <workItem from="1572286899484" duration="2223000" />
+      <workItem from="1572354653977" duration="6368000" />
+      <workItem from="1572530159063" duration="17213000" />
+      <workItem from="1572596595529" duration="201000" />
+      <workItem from="1572597993249" duration="560000" />
+      <workItem from="1572630823943" duration="6562000" />
+      <workItem from="1572701123155" duration="9362000" />
+      <workItem from="1572769773021" duration="23809000" />
+      <workItem from="1572884953549" duration="8280000" />
+      <workItem from="1572945427134" duration="141000" />
+      <workItem from="1572948509834" duration="234000" />
+      <workItem from="1572970308818" duration="1404000" />
+      <workItem from="1573023079369" duration="1619000" />
+      <workItem from="1573058584115" duration="2938000" />
+      <workItem from="1573146110601" duration="12727000" />
+      <workItem from="1573228535341" duration="5242000" />
+      <workItem from="1573293970861" duration="5831000" />
+      <workItem from="1573382536576" duration="10091000" />
+      <workItem from="1573401561622" duration="8385000" />
+      <workItem from="1573468623916" duration="3634000" />
+      <workItem from="1573488945362" duration="7641000" />
+      <workItem from="1573574700014" duration="7988000" />
+      <workItem from="1573641131217" duration="16139000" />
+      <workItem from="1573818737332" duration="17007000" />
+      <workItem from="1573887972872" duration="30067000" />
+      <workItem from="1573978221346" duration="22629000" />
+      <workItem from="1574077780501" duration="1476000" />
+      <workItem from="1574094576559" duration="6081000" />
+      <workItem from="1574361619550" duration="410000" />
+      <workItem from="1575050766816" duration="920000" />
+      <workItem from="1575135996639" duration="2578000" />
+      <workItem from="1576170873292" duration="9815000" />
+      <workItem from="1576254960074" duration="756000" />
+      <workItem from="1576258727613" duration="8334000" />
+      <workItem from="1576330232375" duration="10602000" />
+      <workItem from="1576521364876" duration="3304000" />
+      <workItem from="1577023197217" duration="5786000" />
+      <workItem from="1577089743228" duration="3644000" />
+      <workItem from="1577124228154" duration="6669000" />
+      <workItem from="1577184316286" duration="19872000" />
+      <workItem from="1577257245052" duration="13641000" />
+      <workItem from="1577797855532" duration="18082000" />
+      <workItem from="1577863010485" duration="26826000" />
+      <workItem from="1577963141456" duration="18725000" />
+      <workItem from="1578041852511" duration="19668000" />
+      <workItem from="1578132854204" duration="3524000" />
+      <workItem from="1578146987133" duration="5202000" />
+      <workItem from="1578414773226" duration="8295000" />
+      <workItem from="1578503630138" duration="6379000" />
+      <workItem from="1578672034610" duration="2216000" />
+      <workItem from="1578678107359" duration="9922000" />
+      <workItem from="1578759254152" duration="6911000" />
+      <workItem from="1578839488836" duration="12190000" />
+      <workItem from="1580410411644" duration="1200000" />
+      <workItem from="1580454999623" duration="858000" />
+      <workItem from="1580746023501" duration="8643000" />
+      <workItem from="1580918705544" duration="9498000" />
+      <workItem from="1581003237315" duration="9062000" />
+      <workItem from="1581090778435" duration="9087000" />
+      <workItem from="1581184915700" duration="4624000" />
+      <workItem from="1581264796533" duration="2873000" />
+      <workItem from="1581351312305" duration="2229000" />
+      <workItem from="1581432209180" duration="5930000" />
+      <workItem from="1581520436248" duration="10856000" />
+      <workItem from="1581610154188" duration="8039000" />
+      <workItem from="1581695322635" duration="9490000" />
+      <workItem from="1581785931314" duration="6730000" />
+      <workItem from="1581875897228" duration="4842000" />
+      <workItem from="1581955674893" duration="11525000" />
+      <workItem from="1582043891318" duration="10920000" />
+      <workItem from="1582110605752" duration="15831000" />
+      <workItem from="1582217570054" duration="9250000" />
+      <workItem from="1582287003317" duration="15523000" />
+      <workItem from="1582356846369" duration="20135000" />
+      <workItem from="1582462651807" duration="10630000" />
+      <workItem from="1582646036285" duration="1518000" />
+      <workItem from="1583671654283" duration="316000" />
+      <workItem from="1583771517255" duration="1594000" />
+      <workItem from="1594395888343" duration="1267000" />
+      <workItem from="1595238769158" duration="9580000" />
+      <workItem from="1595408462869" duration="8832000" />
+      <workItem from="1595682080788" duration="8110000" />
+      <workItem from="1595769046807" duration="4721000" />
+      <workItem from="1595775264456" duration="6909000" />
+      <workItem from="1595859974499" duration="6936000" />
+      <workItem from="1595950706903" duration="5197000" />
+      <workItem from="1596105868143" duration="4501000" />
+      <workItem from="1596189850810" duration="1066000" />
+      <workItem from="1596383124342" duration="752000" />
+      <workItem from="1597075560653" duration="605000" />
+      <workItem from="1597217214301" duration="822000" />
+      <workItem from="1602488638031" duration="921000" />
+      <workItem from="1602495708264" duration="677000" />
+      <workItem from="1602750343355" duration="712000" />
+      <workItem from="1602778057882" duration="343000" />
+      <workItem from="1602779561205" duration="1342000" />
+      <workItem from="1604141521011" duration="4350000" />
+      <workItem from="1604230292054" duration="591000" />
+      <workItem from="1604561958231" duration="1663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="886064000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2289644" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32868218" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32868218" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32868218" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24031007" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.28742516" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23624596" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32868218" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.28742516" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.24186046" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/administrador/tela_comissao.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/administrador/tela_estado.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissao/lista_pesquisa.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="67" column="78" selection-start-line="67" selection-start-column="78" selection-end-line="67" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissao/lista_apartamento.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="66" column="78" selection-start-line="66" selection-start-column="78" selection-end-line="66" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Cidade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Comissoe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Agente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Bairro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Quarteiroe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Casa.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissoes/tela_apartamento_reservado.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ComissaoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="60" column="66" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissoes/tela_apartamento.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="65" column="46" lean-forward="true" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissoes/tela_casa.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/administrador/tela_bairro.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissao/tela_proprietario.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/backend_admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="150" column="50" selection-start-line="150" selection-start-column="50" selection-end-line="150" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissao/lista_casas.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissao/lista_pesquisa_casas.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="75" column="82" selection-start-line="75" selection-start-column="82" selection-end-line="75" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CasaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="46" column="74" selection-start-line="46" selection-start-column="74" selection-end-line="46" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/administrador/tela_cidade.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CidadeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-610" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/IsAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/ChekAdmin.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/administrador/lista_pesquisa_casas.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="61" column="82" selection-start-line="61" selection-start-column="82" selection-end-line="61" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/administrador/lista_casas.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3418">
+          <caret line="251" selection-start-line="251" selection-end-line="251" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cliente/tela_pesquisa_casa.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="102" column="11" selection-start-line="102" selection-start-column="11" selection-end-line="102" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissao/tela_comissao.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1469" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/backend_cliente.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="134" column="91" selection-start-line="134" selection-start-column="91" selection-end-line="134" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissao/tela_detalhe.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AgenteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="45" column="43" lean-forward="true" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissao/tela_agente.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="102" column="28" lean-forward="true" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="47" column="16" lean-forward="true" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/read/cliente.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cliente/tela_reserva.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cliente/tela_cliente.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-534">
+          <caret line="100" column="120" selection-start-line="100" selection-start-column="120" selection-end-line="100" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cliente/tela_reservado.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1004">
+          <caret line="126" column="67" selection-start-line="126" selection-start-column="67" selection-end-line="126" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ReservaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="191" column="49" selection-start-line="191" selection-start-column="49" selection-end-line="191" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ClienteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="76" column="75" selection-start-line="76" selection-start-column="75" selection-end-line="76" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="126" column="35" selection-start-line="126" selection-start-column="35" selection-end-line="126" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissao/tela_casa.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-295">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cliente/tela_modal_reserva.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="102" selection-start-line="28" selection-start-column="102" selection-end-line="28" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comissao/tela_apartamento.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="79" column="43" lean-forward="true" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Apartamento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ApartamentoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
